@@ -1,0 +1,9 @@
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\bin\Debug\netcoreapp3.1\ShopApp.Utilities.deps.json
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\bin\Debug\netcoreapp3.1\ShopApp.Utilities.dll
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\bin\Debug\netcoreapp3.1\ShopApp.Utilities.pdb
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\obj\Debug\netcoreapp3.1\ShopApp.Utilities.csprojAssemblyReference.cache
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\obj\Debug\netcoreapp3.1\ShopApp.Utilities.AssemblyInfoInputs.cache
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\obj\Debug\netcoreapp3.1\ShopApp.Utilities.AssemblyInfo.cs
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\obj\Debug\netcoreapp3.1\ShopApp.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\obj\Debug\netcoreapp3.1\ShopApp.Utilities.dll
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Utilities\obj\Debug\netcoreapp3.1\ShopApp.Utilities.pdb

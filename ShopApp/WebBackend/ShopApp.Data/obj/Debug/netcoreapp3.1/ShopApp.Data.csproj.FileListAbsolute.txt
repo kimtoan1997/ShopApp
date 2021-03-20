@@ -1,0 +1,17 @@
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.deps.json
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csprojAssemblyReference.cache
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfo.cs
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.dll
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Utilities.dll
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.pdb
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Utilities.pdb
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CopyComplete
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.json
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.dev.json
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.genruntimeconfig.cache

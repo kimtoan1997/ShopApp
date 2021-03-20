@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xJmfUrwMUNunfi0Pyz+sFSM0HWmn7JkVO9Q/WiQwaQo/X7X20WuJOy1RQwxS3uBAsfWMosMk5Ueu029QIAHvWQ==",
+  "dgSpecHash": "u231ztI0eknFhR99kxNC0/x4UJFYst3kYJah3xZVmDD9Bk+CUltAV5vJxr2I7iZZiSIGIaDSiG87p9MPwe1YfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kimto\\OneDrive\\Desktop\\.NET CORE SOURCE\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj",
+  "projectFilePath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Web\\ShopApp.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
