@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\kimto\\.nuget\\packages\\": {}
+    "C:\\Users\\ad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimto\\OneDrive\\Desktop\\.NET CORE SOURCE\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Web\\ShopApp.Web.csproj",
       "projectName": "ShopApp.Web",
-      "projectPath": "C:\\Users\\kimto\\OneDrive\\Desktop\\.NET CORE SOURCE\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj",
-      "packagesPath": "C:\\Users\\kimto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimto\\OneDrive\\Desktop\\.NET CORE SOURCE\\ShopApp\\ShopApp.Web\\obj\\",
+      "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Web\\ShopApp.Web.csproj",
+      "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kimto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +43,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
