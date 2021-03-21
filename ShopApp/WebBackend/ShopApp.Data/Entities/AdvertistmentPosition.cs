@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using ShopApp.Infrastructure;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -6,7 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace ShopApp.Data.Entities
 {
     [Table("AdvertistmentPositions")]
-    public class AdvertistmentPosition
+    public class AdvertistmentPosition : DomainEntity<string>
     {
         [StringLength(20)]
         public string PageId { get; set; }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj",
       "projectName": "ShopApp.Utilities",
-      "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj",
+      "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj",
       "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\obj\\",
+      "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",

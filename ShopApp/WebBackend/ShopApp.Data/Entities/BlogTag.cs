@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace ShopApp.Data.Entities
 {
     [Table("BlogTags")]
-    public class BlogTag : DomainEntity<int>
+    public class BlogTag : DomainEntity<string>
     {
         public int BlogId { get; set; }
         public string TagId { get; set; }
