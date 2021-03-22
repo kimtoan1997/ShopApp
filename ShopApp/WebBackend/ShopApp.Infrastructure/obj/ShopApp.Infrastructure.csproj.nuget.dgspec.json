@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj": {}
+    "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj": {
+    "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
         "projectName": "ShopApp.Infrastructure",
-        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",

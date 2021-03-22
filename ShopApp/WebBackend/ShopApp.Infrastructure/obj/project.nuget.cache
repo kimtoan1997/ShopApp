@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+mHxXRalFKs65sGDP1SART/TY0/4v2i/kIgHvDTO3glJx3neMssCl8fXmkO/HxRj4+UOtHQKnIj7VSdy1yo3XQ==",
+  "dgSpecHash": "fwHYY6JGmQgQnKMDjGXLTXpgM2RBIf77cUgqEBezYVuzhKUE/XycdScH6ruDmjsgJaL0OIDZtl9IQIP1EjoFVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

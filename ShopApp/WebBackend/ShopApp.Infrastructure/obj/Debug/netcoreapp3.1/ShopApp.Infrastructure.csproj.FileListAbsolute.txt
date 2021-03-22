@@ -7,3 +7,12 @@ C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructur
 C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.dll
 C:\Users\ad\Desktop\Source code\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.pdb
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.deps.json
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.pdb
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.pdb

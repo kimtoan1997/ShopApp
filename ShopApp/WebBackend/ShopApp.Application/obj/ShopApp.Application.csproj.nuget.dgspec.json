@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\ShopApp.Application.csproj": {}
+    "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\ShopApp.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\ShopApp.Application.csproj": {
+    "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\ShopApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\ShopApp.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\ShopApp.Application.csproj",
         "projectName": "ShopApp.Application",
-        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\ShopApp.Application.csproj",
+        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\ShopApp.Application.csproj",
         "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\obj\\",
+        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",

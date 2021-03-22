@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\ShopApp.Data.csproj": {}
+    "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\ShopApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\ShopApp.Data.csproj": {
+    "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\ShopApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\ShopApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\ShopApp.Data.csproj",
         "projectName": "ShopApp.Data",
-        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\ShopApp.Data.csproj",
+        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\ShopApp.Data.csproj",
         "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj"
+              "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj"
               },
-              "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj"
+              "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj"
               }
             }
           }
@@ -58,6 +58,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.4, )"
             }
           },
           "imports": [
@@ -79,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj": {
+    "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
         "projectName": "ShopApp.Infrastructure",
-        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\ShopApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj": {
+    "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj",
         "projectName": "ShopApp.Utilities",
-        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj",
+        "projectPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\ShopApp.Utilities.csproj",
         "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\ad\\Desktop\\Source code\\App\\ShopApp\\ShopApp\\WebBackend\\ShopApp.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",
