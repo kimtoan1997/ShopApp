@@ -17,9 +17,6 @@ namespace ShopApp.Data.Entities
 
         public bool? HasRead { get; set; }
 
-        [ForeignKey("UserId")]
-        public virtual AppUser AppUser { get; set; }
-
         [ForeignKey("AnnouncementId")]
         public virtual Announcement Announcement { get; set; }
     }

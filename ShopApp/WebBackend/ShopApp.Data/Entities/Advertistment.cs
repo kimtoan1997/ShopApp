@@ -10,7 +10,7 @@ using System.Text;
 namespace ShopApp.Data.Entities
 {
     [Table("Advertistments")]
-    public class Advertistment : DomainEntity<int>, ISwitchable, ISortable, IDateTracking
+    public class Advertistment : DomainEntity<string>, ISwitchable, ISortable, IDateTracking
     {
         [StringLength(250)]
         public string Name { get; set; }

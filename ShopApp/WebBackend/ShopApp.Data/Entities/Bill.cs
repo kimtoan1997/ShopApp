@@ -19,7 +19,7 @@ namespace ShopApp.Data.Entities
         }
 
         public Bill(string customeName, string customerAddress, string customerMobie, string customerMessage,
-        BillStatus billStatus, PaymentMethod paymentMethod, Status status, string customerId
+        BillStatus billStatus, PaymentMethod paymentMethod, Status status, Guid customerId
         )
         {
             CustomerName = customeName;
@@ -33,7 +33,7 @@ namespace ShopApp.Data.Entities
         }
 
         public Bill(int id,string customeName, string customerAddress, string customerMobie, string customerMessage,
-        BillStatus billStatus, PaymentMethod paymentMethod, Status status, string customerId
+        BillStatus billStatus, PaymentMethod paymentMethod, Status status, Guid customerId
         )
         {
             Id = id;
@@ -67,8 +67,7 @@ namespace ShopApp.Data.Entities
         [DefaultValue(Status.Active)]
         public Status Status { get; set; } = Status.Active;
 
-        [StringLength(450)]
-        public string CustomerId { get; set; }
+        public Guid CustomerId { get; set; }
 
         [Required]
         [MaxLength(50)]

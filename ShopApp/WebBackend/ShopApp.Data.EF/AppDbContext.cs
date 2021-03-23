@@ -2,12 +2,15 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Configuration;
 using ShopApp.Data.EF.Configurations;
 using ShopApp.Data.EF.Extensions;
 using ShopApp.Data.Entities;
 using ShopApp.Data.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 
@@ -53,11 +56,11 @@ namespace ShopApp.Data.EF
         protected override void OnModelCreating(ModelBuilder builder)
         {
             #region Identity Config
-            builder.Entity<IdentityUserClaim<string>>().ToTable("AppUserClaims").HasKey(x => x.Id);
-            builder.Entity<IdentityRoleClaim<string>>().ToTable("AppRoleClaims").HasKey(x => x.Id);
-            builder.Entity<IdentityUserLogin<string>>().ToTable("AppUserLogin").HasKey(x => x.UserId);
-            builder.Entity<IdentityUserRole<string>>().ToTable("AppUserRoles").HasKey(x => new { x.RoleId, x.UserId});
-            builder.Entity<IdentityUserToken<string>>().ToTable("AppUserTokens").HasKey(x => new { x.UserId});
+            builder.Entity<IdentityUserClaim<Guid>>().ToTable("AppUserClaims").HasKey(x => x.Id);
+            builder.Entity<IdentityRoleClaim<Guid>>().ToTable("AppRoleClaims").HasKey(x => x.Id);
+            builder.Entity<IdentityUserLogin<Guid>>().ToTable("AppUserLogin").HasKey(x => x.UserId);
+            builder.Entity<IdentityUserRole<Guid>>().ToTable("AppUserRoles").HasKey(x => new { x.RoleId, x.UserId});
+            builder.Entity<IdentityUserToken<Guid>>().ToTable("AppUserTokens").HasKey(x => new { x.UserId});
             #endregion
 
             builder.AddConfiguration(new TagConfiguration());
@@ -68,7 +71,10 @@ namespace ShopApp.Data.EF
             builder.AddConfiguration(new ProductTagConfiguration());
             builder.AddConfiguration(new SystemConfigConfiguration());
             builder.AddConfiguration(new AdvertistmentPositionConfiguration());
-            base.OnModelCreating(builder);
+            builder.AddConfiguration(new AdvertistmentPageConfiguration());
+            builder.AddConfiguration(new FunctionConfiguration());
+            builder.AddConfiguration(new AdvertistmentConfiguration());
+            builder.AddConfiguration(new AnnouncementConfiguration());
         }
 
         public override int SaveChanges()
@@ -88,6 +94,21 @@ namespace ShopApp.Data.EF
                 }
             }
             return base.SaveChanges();
+        }
+    }
+
+    public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<AppDbContext>
+    {
+        public AppDbContext CreateDbContext(string[] args)
+        {
+            IConfiguration configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json")
+                .Build();
+            var optionBuilders = new DbContextOptionsBuilder();
+            var connectionString = configuration.GetConnectionString("AppConnection");
+            optionBuilders.UseSqlServer(connectionString);
+            return new AppDbContext(optionBuilders.Options);
         }
     }
 }
