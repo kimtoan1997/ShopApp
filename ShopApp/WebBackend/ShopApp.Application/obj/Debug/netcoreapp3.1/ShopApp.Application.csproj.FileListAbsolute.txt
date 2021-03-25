@@ -13,6 +13,13 @@ C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Applicati
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\obj\Debug\netcoreapp3.1\ShopApp.Application.csprojAssemblyReference.cache
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\obj\Debug\netcoreapp3.1\ShopApp.Application.AssemblyInfoInputs.cache
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\obj\Debug\netcoreapp3.1\ShopApp.Application.AssemblyInfo.cs
-C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\obj\Debug\netcoreapp3.1\ShopApp.Application.csproj.CoreCompileInputs.cache
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\obj\Debug\netcoreapp3.1\ShopApp.Application.dll
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\obj\Debug\netcoreapp3.1\ShopApp.Application.pdb
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\bin\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\bin\Debug\netcoreapp3.1\ShopApp.Utilities.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\bin\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\bin\Debug\netcoreapp3.1\ShopApp.Utilities.pdb
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.pdb
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\obj\Debug\netcoreapp3.1\ShopApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Application\obj\Debug\netcoreapp3.1\ShopApp.Application.csproj.CopyComplete

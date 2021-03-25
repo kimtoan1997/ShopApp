@@ -30,8 +30,6 @@ C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\D
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.csprojAssemblyReference.cache
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.AssemblyInfoInputs.cache
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.AssemblyInfo.cs
-C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.csproj.CoreCompileInputs.cache
-C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.RazorTargetAssemblyInfo.cache
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.Web.StaticWebAssets.Manifest.cache
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.Web.StaticWebAssets.xml
@@ -93,3 +91,17 @@ C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\D
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.pdb
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\ShopApp.Utilities.pdb
 C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.csproj.CopyComplete
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\ShopApp.Application.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\ShopApp.Application.pdb
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\obj\Debug\netcoreapp3.1\ShopApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ad\Desktop\Source code\App\ShopApp\ShopApp\WebBackend\ShopApp.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll

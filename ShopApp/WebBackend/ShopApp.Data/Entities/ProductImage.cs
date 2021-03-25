@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ShopApp.Infrastructure;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -7,7 +8,7 @@ using System.Text;
 namespace ShopApp.Data.Entities
 {
     [Table("ProductImages")]
-    public class ProductImage
+    public class ProductImage : DomainEntity<int>
     {
         public int ProductId { get; set; }
 

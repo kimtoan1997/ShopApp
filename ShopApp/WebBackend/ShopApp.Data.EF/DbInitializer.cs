@@ -65,7 +65,7 @@ namespace ShopApp.Data.EF
                         Email = "admin@gmail.com",
                         Balance = 0
                     },
-                    "123456#$"
+                    "12345678x@X"
                 );
             }
             if (_context.Functions.Count() == 0)

@@ -6,7 +6,7 @@ using System.Text;
 
 namespace ShopApp.Data.Entities
 {
-    [Table("Advertistments")]
+    [Table("AdvertistmentPages")]
     public class AdvertistmentPage : DomainEntity<string>
     {
         public string Name { get; set;}
